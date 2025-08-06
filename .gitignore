@@ -8,7 +8,7 @@ output/
 learning_spark_data/
 */data/
 **/data/
-
+spark-warehouse/
 
 # Jupyter 관련 임시 파일
 .ipynb_checkpoints/
